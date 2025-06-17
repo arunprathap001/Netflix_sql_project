@@ -253,3 +253,16 @@ SELECT
 
 **Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 
+
+## Findings and Conclusion
+
+- **Content Distribution:** The dataset includes a diverse range of movies and TV shows, spanning various ratings and genres.
+
+- **Common Ratings:** The analysis of the most frequent ratings offers insights into the target audience for Netflix content.
+
+- **Geographical Insights:** The identification of top contributing countries—particularly India—highlights regional trends in content distribution.
+
+- **Content Categorization:** Classifying content based on specific keywords provides a deeper understanding of the types of content available on Netflix.
+
+This analysis offers a comprehensive overview of Netflix’s content library and can support data-driven content strategy and decision-making.
+
